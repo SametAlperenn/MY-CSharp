@@ -1,1 +1,7 @@
 ![case3](https://github.com/user-attachments/assets/2609da0e-8979-483c-a74a-eedce484e556)
+![giderler](https://github.com/user-attachments/assets/07f13997-c7b9-4d75-8718-fcb25fec3378)
+![kategoriler](https://github.com/user-attachments/assets/f5e957d1-6fba-437e-a749-cdd30d4a7084)
+![ödemeler](https://github.com/user-attachments/assets/d2fe3120-8b95-4dff-a4d8-84501813cd19)
+![bankalar](https://github.com/user-attachments/assets/3a11174e-b755-4e68-a2ac-b09fa80e6f63)
+![dashboardss](https://github.com/user-attachments/assets/cf19c5d6-4b11-4cab-bb83-6e45ae1aedcc)
+![Giriş ekranı](https://github.com/user-attachments/assets/90a645e5-73a2-4830-a7d8-78ddd3cd9e2a)
